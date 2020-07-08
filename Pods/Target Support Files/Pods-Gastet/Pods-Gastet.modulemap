@@ -1,0 +1,6 @@
+framework module Pods_Gastet {
+  umbrella header "Pods-Gastet-umbrella.h"
+
+  export *
+  module * { export * }
+}
